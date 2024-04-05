@@ -1,0 +1,4 @@
+NAME                                 READY   STATUS    RESTARTS   AGE
+warmup-deployment-8579575bfc-2qdv8   1/1     Running   0          9m38s
+warmup-deployment-8579575bfc-m24vd   1/1     Running   0          9m38s
+warmup-deployment-8579575bfc-z8tsf   1/1     Running   0          9m38s
