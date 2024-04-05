@@ -24,3 +24,7 @@ G.idea/sonarlint/issuestore/5/6/56cd058343dc500d70fb6c2c4aac98dc5da7cbe5,e/2/e2
 Q.idea/sonarlint/securityhotspotstore/5/6/56cd058343dc500d70fb6c2c4aac98dc5da7cbe5,6/0/605e86cb065dc59ebc98cf18c66d1621882cf705
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+K
+ConfigmapsSecrets/pod2.yaml,5/8/58cb169a4c2c90e7e3c4b3273f07c6669296cf62
+Y
+)ConfigmapsSecrets/liveness-probe-pod.yaml,6/4/64b5b339b4730990778312254c29eff50fc420ef
