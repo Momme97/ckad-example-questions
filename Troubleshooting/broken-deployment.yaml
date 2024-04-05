@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: broken-deployment
+  name: broken-deployment
+  namespace: ckad-troubleshooting
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: broken-deployment
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: broken-deployment
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        ports:
+          - containerPort: 80
+        resources: {}
+status: {}
